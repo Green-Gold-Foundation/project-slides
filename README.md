@@ -1,4 +1,9 @@
 # Project Slides
+Project slides, pdf document and ppt link
+
+ppt link:
+https://strathmoreuni-my.sharepoint.com/:p:/g/personal/ann_miano_o365_strathmore_edu/EcqEMzZBS-hAiqWN_TUg5PMBszrzUdhpKnDoFy1II1t_FA?e=y4xRUw
+
 # Green Gold
 
 ## A credit scoring system powered by Geospatial intelligence and machine learning also utilising AI.
